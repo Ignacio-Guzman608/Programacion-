@@ -11,7 +11,6 @@ public class ConexionDB {
         String user = "root";
         String password = "";
 
-
         try {
             Connection con = DriverManager.getConnection(url, user, password);
             System.out.println("Conectado correctamente");

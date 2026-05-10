@@ -13,7 +13,7 @@ public class Producto {
         this.precio = precio;
         this.cantidadDisponible = cantidadDisponible;
     }
-    //geters
+    //getters
     public double getPrecio() {
         return precio;
     }
@@ -23,14 +23,9 @@ public class Producto {
     public int getCantidadDisponible() {
         return cantidadDisponible;
     }
-    //seters      hara falta seters para los demas atributos?
+    //setters
     public void setCantidadDisponible(int cantidadDisponible) {
         this.cantidadDisponible = cantidadDisponible;
     }
-
-
-
-
-
-
+    
 }
