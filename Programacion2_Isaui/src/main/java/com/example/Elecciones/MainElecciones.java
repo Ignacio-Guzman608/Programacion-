@@ -1,4 +1,4 @@
-package com.example;
+package com.example.Elecciones;
 
 public class MainElecciones {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example;
+package com.example.Elecciones;
 
 public class Candidato {
     //attributes

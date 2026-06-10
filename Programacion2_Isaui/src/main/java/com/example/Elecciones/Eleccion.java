@@ -1,4 +1,5 @@
-package com.example;
+package com.example.Elecciones;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

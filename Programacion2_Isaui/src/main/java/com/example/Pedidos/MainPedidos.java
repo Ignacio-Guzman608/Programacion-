@@ -1,4 +1,4 @@
-package com.example;
+package com.example.Pedidos;
 
 public class MainPedidos {
     public static void main(String[] args) {
